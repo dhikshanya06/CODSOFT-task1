@@ -1,1 +1,2 @@
 # CodSoft-task1
+<h4>This code performs logistic regression on the Titanic dataset to predict passenger survival. It preprocesses the data by dropping irrelevant columns, filling missing values, and encoding categorical variables. After splitting the data into training and testing sets, it scales the features, trains a logistic regression model, and evaluates its performance using accuracy, confusion matrix, and classification report. Finally, it visualizes the confusion matrix using a heatmap.</h4>
